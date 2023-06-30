@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/listrunner/static/css/main.2605c1b4.css",
+    "main.js": "/listrunner/static/js/main.4ff9b450.js",
+    "static/js/787.73fe3226.chunk.js": "/listrunner/static/js/787.73fe3226.chunk.js",
+    "static/media/logo.svg": "/listrunner/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/listrunner/index.html",
+    "main.2605c1b4.css.map": "/listrunner/static/css/main.2605c1b4.css.map",
+    "main.4ff9b450.js.map": "/listrunner/static/js/main.4ff9b450.js.map",
+    "787.73fe3226.chunk.js.map": "/listrunner/static/js/787.73fe3226.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2605c1b4.css",
+    "static/js/main.4ff9b450.js"
+  ]
+}
